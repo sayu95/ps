@@ -1,4 +1,4 @@
-package programmers;
+package programmers.LV0_심폐소생술;
 
 class Solution {
     public int[] solution(String[] cpr) {
@@ -16,3 +16,4 @@ class Solution {
         return answer;
     }
 }
+
