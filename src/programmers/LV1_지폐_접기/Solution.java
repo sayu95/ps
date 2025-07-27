@@ -12,15 +12,13 @@ class Solution {
             if (b_min > w_min || b_max > w_max) {
                 b_max /= 2;
                 answer++;
-            }
+            } else break;
 
             if (b_max < b_min) {
                 int temp = b_max;
                 b_max = b_min;
                 b_min = temp;
             }
-
-            if (b_max <= w_max && b_min <= w_min) break;
         }
         return answer;
     }
