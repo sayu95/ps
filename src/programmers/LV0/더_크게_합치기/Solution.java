@@ -10,7 +10,7 @@ class Solution {
         int x = Integer.parseInt(str1);
         int y = Integer.parseInt(str2);
 
-        if(x > y) answer = x;
+        if (x > y) answer = x;
         else answer = y;
 
         return answer;
