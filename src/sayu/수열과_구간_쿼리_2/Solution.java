@@ -1,4 +1,4 @@
-package programmers.LV0.수열과_구간_쿼리_2;
+package sayu.수열과_구간_쿼리_2;
 
 class Solution {
     public int[] solution(int[] arr, int[][] queries) {

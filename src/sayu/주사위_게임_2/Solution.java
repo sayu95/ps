@@ -1,4 +1,4 @@
-package programmers.LV0.주사위_게임_2;
+package sayu.주사위_게임_2;
 
 class Solution {
     public int solution(int a, int b, int c) {

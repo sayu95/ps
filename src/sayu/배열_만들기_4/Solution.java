@@ -1,4 +1,4 @@
-package programmers.LV0.배열_만들기_4;
+package sayu.배열_만들기_4;
 
 import java.util.*;
 
