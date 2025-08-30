@@ -1,4 +1,4 @@
-package backjoon.b1000;
+package backjoon.두_수_빼기;
 
 import java.util.Scanner;
 
@@ -7,6 +7,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int b = scan.nextInt();
-        System.out.println(a+b);
+        int num = a - b;
+        System.out.println(num);
     }
 }

@@ -1,4 +1,4 @@
-package backjoon.b1001;
+package backjoon.두_수_나누기;
 
 import java.util.Scanner;
 
@@ -7,7 +7,6 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int b = scan.nextInt();
-        int num = a - b;
-        System.out.println(num);
+        System.out.println((double)a/b);
     }
 }

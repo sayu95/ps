@@ -1,4 +1,4 @@
-package backjoon.b2557;
+package backjoon.HelloWorld;
 
 public class Main {
 	public static void main(String[] args) {

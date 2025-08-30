@@ -1,4 +1,4 @@
-package backjoon.b10998;
+package backjoon.두_수_곱하기;
 
 import java.util.Scanner;
 
