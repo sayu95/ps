@@ -1,4 +1,4 @@
-package backjoon.세수정렬;
+package sayu.세수정렬;
 
 import java.util.Scanner;
 
