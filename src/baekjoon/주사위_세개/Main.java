@@ -1,4 +1,4 @@
-package backjoon.주사위_세개;
+package baekjoon.주사위_세개;
 
 import java.io.*;
 

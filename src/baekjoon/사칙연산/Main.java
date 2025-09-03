@@ -1,4 +1,4 @@
-package backjoon.두_수_나누기;
+package baekjoon.사칙연산;
 
 import java.util.Scanner;
 
@@ -7,6 +7,10 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int a = scan.nextInt();
         int b = scan.nextInt();
-        System.out.println((double)a/b);
+        System.out.println(a+b);
+        System.out.println(a-b);
+        System.out.println(a*b);
+        System.out.println((int)a/b);
+        System.out.println(a%b);
     }
 }

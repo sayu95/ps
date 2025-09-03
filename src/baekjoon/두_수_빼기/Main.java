@@ -1,4 +1,4 @@
-package backjoon.두_수_빼기;
+package baekjoon.두_수_빼기;
 
 import java.util.Scanner;
 

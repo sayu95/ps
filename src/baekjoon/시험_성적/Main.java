@@ -1,4 +1,4 @@
-package backjoon.시험_성적;
+package baekjoon.시험_성적;
 
 import java.util.Scanner;
 

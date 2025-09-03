@@ -1,4 +1,4 @@
-package backjoon.윤년;
+package baekjoon.윤년;
 
 import java.util.Scanner;
 
