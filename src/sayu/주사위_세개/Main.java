@@ -1,4 +1,4 @@
-package baekjoon.주사위_세개;
+package sayu.주사위_세개;
 
 import java.io.*;
 import java.util.StringTokenizer;
