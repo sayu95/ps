@@ -1,4 +1,4 @@
-package backjoon.사칙연산;
+package baekjoon.사칙연산;
 
 import java.util.Scanner;
 

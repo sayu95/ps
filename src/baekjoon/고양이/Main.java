@@ -1,4 +1,4 @@
-package backjoon.고양이;
+package baekjoon.고양이;
 
 public class Main {
     public static void main(String[] args) {
