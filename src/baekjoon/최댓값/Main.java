@@ -23,7 +23,10 @@ public class Main {
 				pos = i+1;
 			}
 		}
-		System.out.println(max);
-		System.out.println(pos);
+		bw.write(max + "\n");
+		bw.write(pos + "");
+		bw.flush();
+		bw.close();
+		br.close();
 	}
 }
