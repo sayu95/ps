@@ -5,6 +5,5 @@ for i in range(7) :
     if num % 2 :
         arr.append(num)
         
-    if not arr: print("-1")
-
-print(sum(arr), min(arr), sep="\n")
+if not arr: print("-1")
+else: print(sum(arr), min(arr), sep="\n")
