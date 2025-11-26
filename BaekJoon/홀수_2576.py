@@ -1,4 +1,5 @@
 arr = []
+
 for i in range(7) :
     num = int(input())
 
