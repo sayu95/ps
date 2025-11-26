@@ -1,6 +1,6 @@
 score = int(input())
 
-def test() : 
+def grade() : 
     if score >= 90 :
         print("A")
     elif score >= 80 :
@@ -11,4 +11,4 @@ def test() :
         print("D")
     else: print("F")
 
-test()
+grade()
