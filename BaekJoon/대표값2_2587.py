@@ -1,4 +1,5 @@
 numList = []
+
 for _ in range(5) :
    numList.append(int(input()))
 
